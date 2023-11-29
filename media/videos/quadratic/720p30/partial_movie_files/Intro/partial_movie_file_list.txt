@@ -1,0 +1,11 @@
+# This file is used internally by FFMPEG.
+file 'file:/Users/jackthomas/Documents/manim-projects/v0.18.0/media/videos/quadratic/720p30/partial_movie_files/Intro/2016333726_4104584209_223132457.mp4'
+file 'file:/Users/jackthomas/Documents/manim-projects/v0.18.0/media/videos/quadratic/720p30/partial_movie_files/Intro/543634251_1704852926_539062355.mp4'
+file 'file:/Users/jackthomas/Documents/manim-projects/v0.18.0/media/videos/quadratic/720p30/partial_movie_files/Intro/543634251_1044182562_2362578545.mp4'
+file 'file:/Users/jackthomas/Documents/manim-projects/v0.18.0/media/videos/quadratic/720p30/partial_movie_files/Intro/543634251_2875594881_2027610551.mp4'
+file 'file:/Users/jackthomas/Documents/manim-projects/v0.18.0/media/videos/quadratic/720p30/partial_movie_files/Intro/543634251_3673316356_1101674137.mp4'
+file 'file:/Users/jackthomas/Documents/manim-projects/v0.18.0/media/videos/quadratic/720p30/partial_movie_files/Intro/543634251_1083731200_472457518.mp4'
+file 'file:/Users/jackthomas/Documents/manim-projects/v0.18.0/media/videos/quadratic/720p30/partial_movie_files/Intro/543634251_1704852926_1629694089.mp4'
+file 'file:/Users/jackthomas/Documents/manim-projects/v0.18.0/media/videos/quadratic/720p30/partial_movie_files/Intro/543634251_438367267_2292086626.mp4'
+file 'file:/Users/jackthomas/Documents/manim-projects/v0.18.0/media/videos/quadratic/720p30/partial_movie_files/Intro/543634251_1704852926_2821155201.mp4'
+file 'file:/Users/jackthomas/Documents/manim-projects/v0.18.0/media/videos/quadratic/720p30/partial_movie_files/Intro/543634251_194030380_2610274404.mp4'
